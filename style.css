@@ -101,6 +101,7 @@ li {
     justify-content: center;
     align-items: flex-start;
     gap: 80px;
+    flex-wrap: wrap;
 }
 
 .info{
